@@ -16,4 +16,9 @@ f_t_test1 performs all possible permutations. This can take a long time for larg
 If the script f_t_test1 is used, the script f_t_test_T_max.m must also be on the MATLAB path. <br><br>
 Detailed instructions on how to use the scripts are provided in comments at the beginning of the scripts.
 
+# How to cite the functional t-test
+These scripts were created by your colleagues. Please the article in which the functional t-test was described:<br>
+Lambers et al Neuroimage. 2020 Mar;208:116446. doi: 10.1016/j.neuroimage.2019.116446. <br>
+https://www.sciencedirect.com/science/article/pii/S1053811919310377?via%3Dihub
+
 
