@@ -13,7 +13,7 @@ The script was developed using MATLAB 2018b.
 # Details
 There are two versions of the functional t-test (f_t_test1 und  f_t_test2). <br>
 f_t_test1 performs all possible permutations. This can take a long time for large groups (for example, more than one day if both groups consist of more than 10 functions). Therefore, there is the program f_t_test2 that only performs the functional t-test for a limited number of permutations. <br>
-If the script f_t_test1 is used, the script f_t_test_T_max.m must also be on the MATLAB path. <br>
+If the script f_t_test1 is used, the script f_t_test_T_max.m must also be on the MATLAB path. <br><br>
 Detailed instructions on how to use the scripts are provided in comments at the beginning of the scripts.
 
 
