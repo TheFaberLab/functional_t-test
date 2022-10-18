@@ -3,8 +3,8 @@ Tests the null hypothesis that two groups of functions do not differ.
 
 # Overview
 Two groups of functions, consisting of n1 and n2 functions can be compared using the permutation based functional t-test. For a detailed description of the functional t-test see: <br><br>
-Ramsay, J.O., Hooker, G., Spencer, G., 2009. Functional Data Analysis with R and MATLAB, first ed. Springer, Dordrecht, Heidelberg, London, New York <br> <br>
-Lambers et al Neuroimage. 2020 Mar;208:116446. doi: 10.1016/j.neuroimage.2019.116446.
+[1] Ramsay, J.O., Hooker, G., Spencer, G., 2009. Functional Data Analysis with R and MATLAB, first ed. Springer, Dordrecht, Heidelberg, London, New York <br> <br>
+[2] Lambers et al Neuroimage. 2020 Mar;208:116446. doi: 10.1016/j.neuroimage.2019.116446.
 https://www.sciencedirect.com/science/article/pii/S1053811919310377?via%3Dihub
 
 # Software Requirements
